@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kartikay23
-- 👀 I’m interested in Web Development, Machine Learning, Cloud Computing and DevOps.
-- 🌱 I’m currently learning ML and Cloud.
+- 👀 I’m interested in Web Development, Cloud Computing and DevOps.
+- 🌱 I’m currently learning web dev and Cloud.
 - 💞️ I’m looking to collaborate on various projects related to my interests.
 - 📫 How to reach me ... you can reach me through twitter (@kartikayk19)
 
